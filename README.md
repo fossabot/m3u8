@@ -28,6 +28,7 @@ Install
 or get releases from https://github.com/grafov/m3u8/releases
 
 Documentation [![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org/github.com/grafov/m3u8)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fetherlabsio%2Fm3u8.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fetherlabsio%2Fm3u8?ref=badge_shield)
 -------------
 
 Package online documentation (examples included) available at:
@@ -140,3 +141,7 @@ To version 1.0:
 
 * Support all M3U8 tags up to latest version of specs.
 * Code coverage by unit tests up to 90%
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fetherlabsio%2Fm3u8.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fetherlabsio%2Fm3u8?ref=badge_large)
